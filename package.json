@@ -1,0 +1,8 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "Task Manager CLI",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT"
+}
